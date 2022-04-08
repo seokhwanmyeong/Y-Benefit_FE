@@ -104,50 +104,10 @@ https://www.notion.so/3-95e793c2c7e745178dd80a27c802dbc1
 <summary>API 명세서</summary>
 <div markdown="1">
   
-  준비중입니다
+  https://www.notion.so/0eb0d46ffe2041328c56ef683541c30f?v=2443fe69bab84bbab3990a30cf1bab08
   
 </div>
 </details>
 
-<details>
-<summary>ERD</summary>
-<div markdown="1">
-
-  <img src="https://user-images.githubusercontent.com/91252981/161984970-225d27f9-3d71-4701-825a-e5dacaa5ba75.png">
-
-</div>
-</details>
-
 ---
-## Installation
-
-1. fork
-```console
-fork
-```
-
-2. clone
-```console
-$ git clone https://github.com/Y-Benefit/Y-Benefit_BE.git
-```
-
-3. 패키지 설치
-```console
-$ cd Y-Benefit_BE
-$ npm install
-```
-
-4. 환경변수 설정
-```text
-// Y-Benefit_BE 폴더 안에 .env 파일 생성 후 아래의 내용을 기입 후 저장해주세요!
-KAKAO_ID = '카카오에서 받은 REST API Key'
-KAKAO_URL = '설정한 Redirect URI'
-TOKENKEY = '사용할 토큰키'
-```
-
-5. MySQL DB 생성
-```console
-npx sequelize init
-npx sequelize db:create
-```
 
