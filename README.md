@@ -2,7 +2,7 @@
 
 # [청바지 (청년혜택, 바로 지금!)](https://y-benefit.com/) [Backend]
 
-## 안녕하세요. [청바지](https://github.com/Y-Benefit/Y-Benefit_FE) 엔드 입니다.
+## 안녕하세요. [청바지](https://github.com/Y-Benefit/Y-Benefit_FE) 프론트엔드 입니다.
 
 <img src="https://user-images.githubusercontent.com/91252981/161980408-e2406bd8-cb49-4415-be26-9df3e7a2d027.png">
 
